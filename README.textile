@@ -1,0 +1,23 @@
+My personal templates, honestly i don't know if you will use them.
+I created this project because i wanted to familiarize with github :)
+In the following lines you can find a short description of each template.
+
+h3. basic.rb
+
+This is the template i use most of the time. It includes the following features:
+
+* annotate-models plugin. I really like it.
+* restful-authentication. It's simple _impossible_ not to use it.
+* acts_as_attachment. Generally, my brand-new projects require attachment and so there it is.
+* will_paginate. the gem version.
+* git repository initalization
+
+h3. jquery.rb
+
+I use this template when i need to play with jquery, it includes the following
+features:
+
+* jQuery 1.3.2 installation. Now, i assume that you can run curl. Maybe i will
+find a better solution.
+* Application layout created with inclusion of jquery.
+* git repositiory initialization
