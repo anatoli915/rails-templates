@@ -1,3 +1,5 @@
+# git.rb
+
 initializer '.gitignore', <<-GITIGNORE
 log/\\*.log
 log/\\*.pid

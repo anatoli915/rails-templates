@@ -1,3 +1,5 @@
+# jquery.rb
+
 apply("https://github.com/lucapette/rails-templates/raw/master/basic.rb")
 
 # remove defaults

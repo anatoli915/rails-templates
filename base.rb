@@ -1,4 +1,4 @@
-# base.rb template
+# base.rb
 
 # delete unnecessary files
 run "rm README"
@@ -12,3 +12,5 @@ gem 'nifty-generators'
 gem "will_paginate", '3.0.pre2'
 
 gem 'annotate'
+
+generate("nifty:layout")

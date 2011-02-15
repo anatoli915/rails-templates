@@ -1,4 +1,4 @@
-# raw.rb template
+# raw.rb
 
 # delete unnecessary files
 run "rm README"
@@ -14,7 +14,5 @@ gem "will_paginate", '3.0.pre2'
 gem 'annotate'
 
 gem 'thin'
-
-gem("devise")
 
 apply("https://github.com/lucapette/rails-templates/raw/master/git.rb")
