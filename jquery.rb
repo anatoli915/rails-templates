@@ -1,6 +1,6 @@
 # jquery.rb
 
-apply("https://github.com/lucapette/rails-templates/raw/master/basic.rb")
+apply("https://github.com/lucapette/rails-templates/raw/master/base.rb")
 
 # remove defaults
 run "rm public/javascripts/controls.js"
