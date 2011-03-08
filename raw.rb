@@ -15,4 +15,4 @@ gem 'annotate'
 
 gem 'thin'
 
-apply("https://github.com/lucapette/rails-templates/raw/master/git.rb")
+apply(File.join(File.dirname(__FILE__),"git.rb"))
