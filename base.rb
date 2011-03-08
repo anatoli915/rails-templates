@@ -8,7 +8,7 @@ run "rm public/robots.txt"
 
 gem 'nifty-generators'
 
-gem "will_paginate", '3.0.pre2'
+gem 'kaminari'
 
 gem 'annotate'
 

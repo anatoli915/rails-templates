@@ -1,5 +1,7 @@
 # git.rb
 
+run('bundle')
+
 initializer '.gitignore', <<-GITIGNORE
 log/\\*.log
 log/\\*.pid
