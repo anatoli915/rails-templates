@@ -5,8 +5,8 @@ h3. basic.rb
 This is the template I use most of the time. It includes the following features:
 
 * annotate.Come on, you need it.
-* will_paginate.
-* awesome devise if you want it.
+* kaminari.
+* the awesome devise if you want it.
 * git repository initialization if you want it.
 
 h3. raw.rb
@@ -23,4 +23,4 @@ features:
 
 h3. git.rb
 
-It initialize a new git repository with rails specific actions.
+It initializes a new git repository with rails specific actions.
