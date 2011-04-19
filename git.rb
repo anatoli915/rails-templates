@@ -15,7 +15,7 @@ doc/app
 config/database.yml
 GITIGNORE
 
-run "cp config/database.yml config/database.yml.sample"
+run "cp config/database.yml config/database.yml.example"
 
 git :init
 git :add => "."
