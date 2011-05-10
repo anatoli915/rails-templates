@@ -11,5 +11,5 @@ run "rm public/javascripts/prototype.js"
 gem 'jquery-rails'
 
 if yes?("Do you want me to configure git?")
-    apply(File.join(File.dirname(__FILE__), "git.rb"))
+  apply(File.join(File.dirname(__FILE__), "git.rb"))
 end
