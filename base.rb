@@ -12,4 +12,4 @@ gem 'kaminari'
 
 gem 'annotate'
 
-gem 'devise', :git => "http://github.com/plataformatec/devise.git"
+gem 'devise'
