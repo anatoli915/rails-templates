@@ -1,4 +1,4 @@
-My Rails 3 templates. Please take a look to "http://guides.rubyonrails.org/generators.html#application-templates":this guide to dig into Rails application templates.
+My Rails 3 templates. Please take a look to http://guides.rubyonrails.org/generators.html#application-templates for an introduction to Rails application templates.
 
 In the following a description of the templates you can use:
 
