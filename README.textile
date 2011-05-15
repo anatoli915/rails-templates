@@ -1,10 +1,12 @@
-My Rails 3 templates.
+My Rails 3 templates. Please take a look to "http://guides.rubyonrails.org/generators.html#application-templates":this guide to dig into Rails application templates.
+
+In the following a description of the templates you can use:
 
 h3. basic.rb
 
 This is the template I use most of the time. It includes the following features:
 
-* annotate.Come on, you need it.
+* annotate. Come on, you need it.
 * kaminari.
 * the awesome devise if you want it.
 * git repository initialization if you want it.
@@ -15,11 +17,12 @@ The same as basic.rb but not polite. It doesn't ask, it installs stuff.
 
 h3. jquery.rb
 
-I use this template when I need to play with jquery, it includes the following
-features:
+I use this template when I need to play with jquery, it includes the following features:
 
 * Application layout created with inclusion of jquery.
 * git repository initialization
+
+I think I'll delete this one when Rails 3.1 becomes the stable version.
 
 h3. git.rb
 
